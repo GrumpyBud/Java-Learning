@@ -1,3 +1,5 @@
+package  Intro;
+
 public class LineIntercepts {
     public static void main(String[] args) {
         // Step 1: Define the slope (m) and y-intercept (b) of the line

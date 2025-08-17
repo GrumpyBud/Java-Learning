@@ -1,3 +1,5 @@
+package  Intro;
+
 public class TrapezoidArea {
     public static void main(String[] args) {
         // Step 1: Declare variables for the two bases and the height
