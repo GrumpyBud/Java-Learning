@@ -1,4 +1,4 @@
-package  Intro;
+package intro;
 
 public class QuadraticZeroes {
     public static void main(String[] args) {

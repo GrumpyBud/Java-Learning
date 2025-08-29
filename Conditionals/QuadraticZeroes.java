@@ -1,4 +1,4 @@
-package Conditionals;
+package conditionals;
 
 public class QuadraticZeroes {
     public static void main(String[] args) {
