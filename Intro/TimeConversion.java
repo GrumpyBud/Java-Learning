@@ -1,4 +1,4 @@
-package  Intro;
+package intro;
 
 public class TimeConversion {
     public static void main(String[] args) {
